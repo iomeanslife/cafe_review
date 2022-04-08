@@ -7,7 +7,9 @@ Version = 1 # Format versioning
         Seating = 0 # Neutral
         Temperature = 0
         Noise = -1
-        Notes = "Few seats close to the counter and the entrance. Constant neutral music playing. Chilli at times."
+        Space = 0
+        Aesthetics = 1
+        Notes = "Few seats movable seats on static tables, close to the counter and the entrance. Constant neutral music playing. Chilling at times. Plants and minimalist design, exhibiting coffee related things."
     
     [Sustenance]
         espresso = 1 # Good
@@ -19,4 +21,6 @@ Version = 1 # Format versioning
         Power = 0
         Wifi = -1 # See notes # - check for annoying signup, risky data, security
         Staff = "Busy, friendly once they pay attention to you, if they do."
-        Notes = "Slightly inconveniently places sockets, no USB. Couldn't ask for wifi because I didn't want wait longer. Maybe ask for it while ordering?"
+        Sanitation = 0
+
+        Notes = "Slightly inconveniently places sockets, no USB. Couldn't ask for wifi because I didn't want wait longer. Maybe ask for it while ordering? hand sanitiser bottle, no selfservice napkins."
